@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Personals\\Dotnetblockchainimplementation\\Dotnetblockchainimplementation.csproj": {}
+    "D:\\Personals\\DotNETBlockChainImplementation\\Dotnetblockchainimplementation.csproj": {}
   },
   "projects": {
-    "D:\\Personals\\Dotnetblockchainimplementation\\Dotnetblockchainimplementation.csproj": {
+    "D:\\Personals\\DotNETBlockChainImplementation\\Dotnetblockchainimplementation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Personals\\Dotnetblockchainimplementation\\Dotnetblockchainimplementation.csproj",
+        "projectUniqueName": "D:\\Personals\\DotNETBlockChainImplementation\\Dotnetblockchainimplementation.csproj",
         "projectName": "Dotnetblockchainimplementation",
-        "projectPath": "D:\\Personals\\Dotnetblockchainimplementation\\Dotnetblockchainimplementation.csproj",
+        "projectPath": "D:\\Personals\\DotNETBlockChainImplementation\\Dotnetblockchainimplementation.csproj",
         "packagesPath": "C:\\Users\\KwanHong\\.nuget\\packages\\",
-        "outputPath": "D:\\Personals\\Dotnetblockchainimplementation\\obj\\",
+        "outputPath": "D:\\Personals\\DotNETBlockChainImplementation\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

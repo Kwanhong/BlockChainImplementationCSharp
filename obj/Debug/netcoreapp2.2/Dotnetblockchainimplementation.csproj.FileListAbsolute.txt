@@ -1,0 +1,11 @@
+D:\Personals\DotNETBlockChainImplementation\obj\Debug\netcoreapp2.2\Dotnetblockchainimplementation.csprojAssemblyReference.cache
+D:\Personals\DotNETBlockChainImplementation\obj\Debug\netcoreapp2.2\Dotnetblockchainimplementation.csproj.CoreCompileInputs.cache
+D:\Personals\DotNETBlockChainImplementation\obj\Debug\netcoreapp2.2\Dotnetblockchainimplementation.AssemblyInfoInputs.cache
+D:\Personals\DotNETBlockChainImplementation\obj\Debug\netcoreapp2.2\Dotnetblockchainimplementation.AssemblyInfo.cs
+D:\Personals\DotNETBlockChainImplementation\bin\Debug\netcoreapp2.2\Dotnetblockchainimplementation.deps.json
+D:\Personals\DotNETBlockChainImplementation\bin\Debug\netcoreapp2.2\Dotnetblockchainimplementation.runtimeconfig.json
+D:\Personals\DotNETBlockChainImplementation\bin\Debug\netcoreapp2.2\Dotnetblockchainimplementation.runtimeconfig.dev.json
+D:\Personals\DotNETBlockChainImplementation\bin\Debug\netcoreapp2.2\Dotnetblockchainimplementation.dll
+D:\Personals\DotNETBlockChainImplementation\bin\Debug\netcoreapp2.2\Dotnetblockchainimplementation.pdb
+D:\Personals\DotNETBlockChainImplementation\obj\Debug\netcoreapp2.2\Dotnetblockchainimplementation.dll
+D:\Personals\DotNETBlockChainImplementation\obj\Debug\netcoreapp2.2\Dotnetblockchainimplementation.pdb
